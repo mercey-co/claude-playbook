@@ -1,10 +1,15 @@
 # Ignore everything by default
 *
 
-# Keep these three dirs
+# Unignore the directories themselves
 !agents/
 !commands/
 !instructions/
+
+# Unignore everything inside them too
+!agents/**
+!commands/**
+!instructions/**
 
 # Keep .gitignore itself
 !.gitignore
