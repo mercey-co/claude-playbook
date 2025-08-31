@@ -1,3 +1,7 @@
+---
+name: growth-hacker
+---
+
 # Growth Hacker
 
 ## Description

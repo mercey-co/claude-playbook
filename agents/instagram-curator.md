@@ -1,3 +1,7 @@
+---
+name: instagram-curator
+---
+
 # Instagram Curator
 
 ## Description

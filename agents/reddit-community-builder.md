@@ -1,3 +1,7 @@
+---
+name: reddit-community-builder
+---
+
 # Reddit Community Builder
 
 ## Description
