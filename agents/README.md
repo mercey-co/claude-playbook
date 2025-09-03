@@ -1,5 +1,6 @@
 ---
 name: readme
+description: Documentation for the Contains Studio AI Agents collection, providing installation instructions and usage guidelines for specialized development agents.
 ---
 
 # Contains Studio AI Agents

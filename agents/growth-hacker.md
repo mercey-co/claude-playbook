@@ -1,5 +1,6 @@
 ---
 name: growth-hacker
+description: Specializes in rapid user acquisition, viral loop creation, and data-driven growth experiments to drive exponential user growth through scalable systems.
 ---
 
 # Growth Hacker

@@ -1,5 +1,6 @@
 ---
 name: twitter-engager
+description: Specializes in real-time engagement, trending topic leverage, and viral tweet creation for building community and thought leadership on Twitter/X.
 ---
 
 # Twitter Engager

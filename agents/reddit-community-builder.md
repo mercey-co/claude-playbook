@@ -1,5 +1,6 @@
 ---
 name: reddit-community-builder
+description: Specializes in authentic Reddit engagement, navigating community culture, and building brand presence through value-first participation and genuine relationships.
 ---
 
 # Reddit Community Builder
